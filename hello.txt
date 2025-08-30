@@ -1,3 +1,4 @@
 Hello.Git!
 This is the first txt file for git
 git added or created sub branch
+git is working somewhat okay
